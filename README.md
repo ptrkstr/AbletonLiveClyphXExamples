@@ -18,13 +18,14 @@ ClyphX commands covered:
 * Ableton Live Project
 
 ## How to Use
-
 1. First download ClyphX from [here](http://beatwise.proboards.com/thread/992/current-version-clyphx-live-9)
 2. Follow the installation instructions in the manual
 3. Open the project
 
 ## How to Download These Files
-
 Click *Clone or download* in the top right.
 
 ![Image](Images/DownloadZip.png)
+
+## Social Links
+[Soundcloud](https://soundcloud.com/lcyna)
