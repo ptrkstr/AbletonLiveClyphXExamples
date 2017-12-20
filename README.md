@@ -28,4 +28,4 @@ Click *Clone or download* in the top right.
 ![Image](Images/DownloadZip.png)
 
 ## Social Links
-[Soundcloud](https://soundcloud.com/lcyna)
+[SoundCloud](https://soundcloud.com/lcyna)
