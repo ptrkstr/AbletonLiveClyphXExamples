@@ -12,6 +12,8 @@ ClyphX commands covered:
 * Song, BPM, Preset, Key Scale, Play Instrument
 * Message
 
+![Project Screenshot](Images/ProjectScreenshot.png)
+
 ## Contained Resources
 * Manual
 * Presentation
