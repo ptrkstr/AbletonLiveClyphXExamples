@@ -28,6 +28,3 @@ ClyphX commands covered:
 Click *Clone or download* in the top right.
 
 ![Image](Images/DownloadZip.png)
-
-## Social Links
-[SoundCloud](https://soundcloud.com/lcyna)
